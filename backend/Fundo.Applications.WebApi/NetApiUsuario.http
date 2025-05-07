@@ -1,0 +1,6 @@
+@Fundo.Applications.WebApi_HostAddress = http://localhost:5204
+
+GET {{Fundo.Applications.WebApi_HostAddress}}/api/loan/
+Accept: application/json
+
+###
